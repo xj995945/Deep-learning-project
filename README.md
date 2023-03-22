@@ -13,11 +13,11 @@
 2、 在低信噪比时也有着较好的检测性能  
 3、 结合了AI算法的鲁棒性和传统算法的简单性  
   
-#图像识别项目介绍
+# 图像识别项目介绍
 数据集介绍：本人使用的数据集是Visual Geometry Group的17 Category Flower Dataset数据集。  
-分别使用五种网络进行了实战。  
-**1、 AlexNet图像识别**
-**2、 VGGNet图像识别**
-**3、 Google图像识别**
-**4、 ResNet图像识别**
-**5、 SENet图像识别**
+分别使用五种网络进行了实战。    
+**1、 AlexNet图像识别**  
+**2、 VGGNet图像识别**  
+**3、 Google图像识别**  
+**4、 ResNet图像识别**  
+**5、 SENet图像识别**  
