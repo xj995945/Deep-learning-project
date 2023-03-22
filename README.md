@@ -17,8 +17,8 @@
 这是自己在TensorFlow框架下独立完成的小项目。  
 使用的数据集是Visual Geometry Group的17 Category Flower Dataset数据集。  
 分别使用五种网络进行了实战。    
-**1、 AlexNet图像识别**  
-**2、 VGGNet图像识别**  
-**3、 Google图像识别**  
-**4、 ResNet图像识别**  
-**5、 SENet图像识别**  
+**1、AlexNet图像识别**  
+**2、VGGNet图像识别**  
+**3、Google图像识别**  
+**4、ResNet图像识别**  
+**5、SENet图像识别**  
