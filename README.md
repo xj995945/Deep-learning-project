@@ -14,7 +14,8 @@
 3、 结合了AI算法的鲁棒性和传统算法的简单性  
   
 # 图像识别项目介绍
-数据集介绍：本人使用的数据集是Visual Geometry Group的17 Category Flower Dataset数据集。  
+这是自己在TensorFlow框架下独立完成的小项目。  
+使用的数据集是Visual Geometry Group的17 Category Flower Dataset数据集。  
 分别使用五种网络进行了实战。    
 **1、 AlexNet图像识别**  
 **2、 VGGNet图像识别**  
